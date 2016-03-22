@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: LibraryManagementSystem_gui
+
+Name: com/toedter/calendar/JCalendar.class
+Java-Bean: True
+
+Name: com/toedter/components/JSpinField.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JYearChooser.class
+Java-Bean: True
+
+Name: com/toedter/components/JLocaleChooser.class
+Java-Bean: True
+
+Name: common
+Implementation-Vendor: Sun Microsystems Inc.
+Implementation-Title: MySQL Connector/J
+Implementation-Version: 5.1.10
+Implementation-Vendor-Id: com.mysql
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Title: JDBC
+Specification-Version: 4.0
+
+Name: com/toedter/calendar/JMonthChooser.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JDateChooser.class
+Java-Bean: True
+
+Name: com/toedter/calendar/JDayChooser.class
+Java-Bean: True
+
